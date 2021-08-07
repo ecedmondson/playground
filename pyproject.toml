@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "emily_funcy"
+name = "packaging"
 version = "0.1.0"
 description = ""
 authors = ["Emily Edmondson <ecedmondson@gmail.com>"]
